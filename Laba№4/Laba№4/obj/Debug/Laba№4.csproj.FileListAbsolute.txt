@@ -1,0 +1,14 @@
+D:\tmp projects\Laba№4\Laba№4\obj\Debug\Laba№4.csprojAssemblyReference.cache
+D:\tmp projects\Laba№4\Laba№4\obj\Debug\Laba№4.csproj.CoreCompileInputs.cache
+D:\tmp projects\Laba№4\Laba№4\bin\Debug\Laba№4.exe.config
+D:\tmp projects\Laba№4\Laba№4\bin\Debug\Laba№4.exe
+D:\tmp projects\Laba№4\Laba№4\bin\Debug\Laba№4.pdb
+D:\tmp projects\Laba№4\Laba№4\bin\Debug\OpenTK.dll
+D:\tmp projects\Laba№4\Laba№4\bin\Debug\OpenTK.GLControl.dll
+D:\tmp projects\Laba№4\Laba№4\bin\Debug\OpenTK.pdb
+D:\tmp projects\Laba№4\Laba№4\bin\Debug\OpenTK.xml
+D:\tmp projects\Laba№4\Laba№4\bin\Debug\OpenTK.GLControl.pdb
+D:\tmp projects\Laba№4\Laba№4\bin\Debug\OpenTK.GLControl.xml
+D:\tmp projects\Laba№4\Laba№4\obj\Debug\Laba№4.csproj.CopyComplete
+D:\tmp projects\Laba№4\Laba№4\obj\Debug\Laba№4.exe
+D:\tmp projects\Laba№4\Laba№4\obj\Debug\Laba№4.pdb
